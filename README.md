@@ -11,6 +11,9 @@
 #### Using @Observable to track Model
 
 
+https://github.com/WhosthatAoli/Appetizers-SwiftUI/assets/54309838/f7a5ccb5-bba0-413b-843a-e2a6e0bfbff7
 
-https://github.com/WhosthatAoli/Appetizers-SwiftUI/assets/54309838/9603bb11-19d4-46f8-84b5-99eb5c4bdd52
+
+
+
 
