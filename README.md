@@ -1,7 +1,7 @@
 ## Appetizer App (Original by Sean)
 
 ### An Online Order App with Food Lists, Orders, Order Details, Account
-**List ScrollView** 
+**List ScrollView** \
 **Detail Overlay**
 **AppStorage to local store data**
 **AsyncImage to fetch img from URL**
