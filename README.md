@@ -2,10 +2,10 @@
 
 ### An Online Order App with Food Lists, Orders, Order Details, Account
 **List ScrollView** \
-**Detail Overlay**
-**AppStorage to local store data**
-**AsyncImage to fetch img from URL**
-**Use @FocusState and .onSubmit to optimize user experience when using keypad**
+**Detail Overlay** \
+**AppStorage to local store data** \
+**AsyncImage to fetch img from URL** \
+**Use @FocusState and .onSubmit to optimize user experience when using keypad** \
 
 ### New Update:
 #### Using @Observable to track Model
